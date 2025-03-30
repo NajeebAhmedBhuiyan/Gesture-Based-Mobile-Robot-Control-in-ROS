@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/nabq/ws_moveit/install/moveit_task_constructor_core/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/moveit_task_constructor_msgs/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/moveit_py/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/moveit_msgs/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/moveit_configs_utils/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/keyboard_control/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nabq/ws_moveit/install/moveit_task_constructor_core/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/moveit_task_constructor_msgs/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/moveit_py/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/moveit_msgs/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/moveit_configs_utils/lib/python3.12/site-packages",
+        "/home/nabq/ws_moveit/install/keyboard_control/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
