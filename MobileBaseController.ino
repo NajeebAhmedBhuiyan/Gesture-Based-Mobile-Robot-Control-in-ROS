@@ -1,3 +1,7 @@
+# Developed by: Najeeb Ahmed Bhuiyan, Department of Mechatronics Engineering, RUET, Bangladesh.
+# Email: nabq2000@gmail.com
+# Github Repo: https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Mobile-Robot-Control-in-ROS
+
 #include <Arduino.h>
 
 void setup() {
