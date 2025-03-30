@@ -77,7 +77,7 @@ graph TD
 ## 🚨 Troubleshooting
 1. **Serial Port Permissions**:
    ```bash
-   ls
+   ls /dev/ttyUSB*
    sudo chmod 666 /dev/ttyUSB0
    ```
 2. **Missing Python Packages**:
