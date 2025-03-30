@@ -62,6 +62,7 @@ Circuit Diagram will be added soon!
    - **Tilt Control**:
      - Forward/Backward: Tilt X-axis
      - Left/Right: Tilt Y-axis
+     - Idle: Robot Stays Idle
    - **Flex Sensors**:
      - Bend Accelerator sensor to speed up
      - Bend Decelerator sensor to slow down
