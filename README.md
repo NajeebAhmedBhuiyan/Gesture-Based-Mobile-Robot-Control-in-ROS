@@ -38,7 +38,7 @@ Circuit Diagram will be added soon!
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Mobile-Robot-Control-in-ROS.git
+   git clone https://github.com/NajeebAhmedBhuiyan/Gesture-Based-Mobile-Robot-Control-in-ROS.git
    ```
 2. Build the ROS2 workspace:
    Put the `mobile_robot` folder into the `src` file of your ros2 workspace and build it.
