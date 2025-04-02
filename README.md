@@ -1,5 +1,11 @@
 # Gesture Based Mobile Robot Control in ROS 🚗⚡
 
+**ROS2 Jazzy Package for Mobile Robot Control Using Sensor Fusion-Powered Hand Gestures**  
+*Part of Undergraduate Thesis: "A Bimanual Gesture Interface for ROS-Based Mobile Manipulators Using Edge-AI and Sensor Fusion"*
+
+[![ROS2 Jazzy](https://img.shields.io/badge/ROS2-Jazzy-%23C5221F)](https://docs.ros.org/en/jazzy/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 A ROS2 Jazzy package for controlling a differential drive robot in Gazebo using an Arduino Nano with ADXL335 accelerometer and flex sensors.
 
 ## 📋 Project Overview
