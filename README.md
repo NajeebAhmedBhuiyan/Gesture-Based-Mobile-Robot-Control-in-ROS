@@ -73,7 +73,7 @@ Circuit Diagram will be added soon!
      - Bend Accelerator sensor to speed up
      - Bend Decelerator sensor to slow down
 
-## 🧩 Component Diagram
+## 🧩 System Architecture
 ```mermaid
 graph TD
   A[Arduino Nano] -->|Serial Data| B[ROS2 Bridge]
