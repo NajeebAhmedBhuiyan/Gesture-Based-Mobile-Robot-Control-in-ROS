@@ -27,8 +27,19 @@ A ROS2 Jazzy package for controlling a differential drive robot in Gazebo using 
   sudo apt install python3-pynput python3-serial
   ```
 - **ROS2 Packages**:
-  Install the required Gazebo version for the ROS2 Jazzy (Gazebo Harmonic) and the teleop_twist_keyboard.
-
+  Install the required Gazebo version for the ROS2 Jazzy (Gazebo Harmonic), along with (run these in your terminal):
+  ```bash
+  sudo apt install ros-jazzy-joint-state-publisher
+  ```
+  ```bash
+  sudo apt install ros-jazzy-joint-state-publisher-gui
+  ```
+  ```bash
+  sudo apt install ros-jazzy-xacro
+  ```
+  ```bash
+  sudo apt install ros-jazzy-teleop-twist-keyboard
+  ```
 ## 🔌 Hardware Setup
 ### Circuit Connections
 **Arduino Nano Pinout**:
